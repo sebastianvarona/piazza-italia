@@ -68,10 +68,10 @@ export default function Galeria() {
             <h2 className="text-2xl font-medium font-title mb-8">
               Horarios de servicio:
             </h2>
-            <table class="has-white-color has-text-color">
+            <table className="has-white-color has-text-color">
               <tbody>
-                {horarios.map((horario) => (
-                  <tr className="py-1">
+                {horarios.map((horario, index) => (
+                  <tr key={index} className="py-1">
                     <td>{horario.dia}</td>
                     <td>{horario.horario}</td>
                   </tr>

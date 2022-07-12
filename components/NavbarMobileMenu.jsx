@@ -68,9 +68,10 @@ export default function NavbarMobileMenu() {
       </div>
       <div className="pt-12">
         <ul className="flex flex-col gap-5 items-center">
-          {items.map((item) => {
+          {items.map((item, index) => {
             return (
               <li
+                key={index}
                 onClick={() => {
                   dispatch(toggle());
                 }}

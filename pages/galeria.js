@@ -19,8 +19,8 @@ export default function Galeria() {
       <main>
         <Banner title="Galería" url={'/gallery/background.jpeg'} />
         <section className="grid gap-4 md:gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 grid-flow-row mx-auto max-w-6xl px-8 my-20">
-          {images.map((image) => (
-            <Item path={image.path} />
+          {images.map((image, index) => (
+            <Item key={index} path={image.path} />
           ))}
         </section>
       </main>
@@ -32,7 +32,13 @@ export default function Galeria() {
 export function Item({ path }) {
   return (
     <div className="block bg-gray-300 overflow-hidden rounded-lg">
-      <Image src={path} width={960} height={1010} layout={'responsive'} />
+      <Image
+        src={path}
+        width={960}
+        height={1010}
+        alt=""
+        layout={'responsive'}
+      />
     </div>
   );
 }

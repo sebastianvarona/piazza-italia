@@ -24,6 +24,7 @@ export default function AcercaDe() {
             src={'/home/imagen1.png'}
             width={960}
             height={1150}
+            alt=""
           />
           <h3 className="text-2xl font-medium text-center text-gold font-title">
             Comida de calidad
@@ -43,6 +44,7 @@ export default function AcercaDe() {
             src={'/home/imagen2.png'}
             width={960}
             height={1150}
+            alt=""
           />
           <h3 className="text-2xl font-medium text-center text-gold font-title">
             Excelente ambiente
@@ -62,6 +64,7 @@ export default function AcercaDe() {
             src={'/home/imagen3.png'}
             width={960}
             height={1150}
+            alt=""
           />
           <h3 className="text-2xl font-medium text-center text-gold font-title">
             Gran experticia
