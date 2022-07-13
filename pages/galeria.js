@@ -31,7 +31,7 @@ export default function Galeria() {
 
 export function Item({ path }) {
   return (
-    <div className="block bg-gray-300 overflow-hidden rounded-lg">
+    <div className="block bg-gray-200 overflow-hidden rounded-lg">
       <Image
         src={path}
         width={960}

@@ -20,7 +20,7 @@ export default function AcercaDe() {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 relative max-w-6xl mx-auto mt-20 px-4 sm:px-8">
         <div>
           <Image
-            className="rounded-lg"
+            className="rounded-lg bg-gray-200"
             src={'/home/imagen1.png'}
             width={960}
             height={1150}
@@ -40,7 +40,7 @@ export default function AcercaDe() {
         </div>
         <div>
           <Image
-            className="rounded-lg"
+            className="rounded-lg bg-gray-200"
             src={'/home/imagen2.png'}
             width={960}
             height={1150}
@@ -60,7 +60,7 @@ export default function AcercaDe() {
         </div>
         <div>
           <Image
-            className="rounded-lg"
+            className="rounded-lg bg-gray-200"
             src={'/home/imagen3.png'}
             width={960}
             height={1150}
