@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import NavbarMobileMenu from '../components/NavbarMobileMenu';
 import Banner from '../components/Banner';
 import Footer from '../components/Footer';
-import images from '../helpers/gallery2';
+import images from '../helpers/gallery';
 
 export default function Galeria() {
   return (
