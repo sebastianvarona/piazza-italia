@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import NavbarMobileMenu from '../components/NavbarMobileMenu';
 import Banner from '../components/Banner';
 import Footer from '../components/Footer';
-import images from '../helpers/gallery';
+import images from '../helpers/gallery2';
 
 export default function Galeria() {
   return (
@@ -18,7 +18,7 @@ export default function Galeria() {
       </header>
       <main>
         <Banner title="Galería" url={'/gallery/background.jpeg'} />
-        <section className="grid gap-4 md:gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 grid-flow-row mx-auto max-w-6xl px-8 my-20">
+        <section className="grid gap-3 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 grid-flow-row mx-auto max-w-6xl px-8 my-20">
           {images.map((image, index) => (
             <Item key={index} path={image.path} />
           ))}
