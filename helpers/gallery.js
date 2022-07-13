@@ -52,6 +52,16 @@ const images = [
   { path: '/gallery/galeria51.png' },
   { path: '/gallery/galeria52.png' },
   { path: '/gallery/galeria53.png' },
+  { path: '/gallery/galeria54.png' },
+  { path: '/gallery/galeria55.png' },
+  { path: '/gallery/galeria56.png' },
+  { path: '/gallery/galeria57.png' },
+  { path: '/gallery/galeria58.png' },
+  { path: '/gallery/galeria59.png' },
+  { path: '/gallery/galeria60.png' },
+  { path: '/gallery/galeria61.png' },
+  { path: '/gallery/galeria62.png' },
+  { path: '/gallery/galeria63.png' },
 ];
 
 export default images;
