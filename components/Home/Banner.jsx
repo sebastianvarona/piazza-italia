@@ -2,7 +2,7 @@ export default function Banner() {
   return (
     <div className="relative">
       <video
-        src="/buon_compleanno_venezia_comprimido.mp4"
+        src="/buon_compleanno_venezia_comprimido.m4v"
         autoPlay
         muted
         className="w-full h-[110vh] object-cover"
