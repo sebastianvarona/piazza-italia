@@ -606,7 +606,7 @@ export default function Layout({ title }) {
               </tbody>
             </table>
           </Item>
-          <Item title="Licores">
+          <Item title="Cervezas">
             <table>
               <tbody>
                 <tr className="my-1">
