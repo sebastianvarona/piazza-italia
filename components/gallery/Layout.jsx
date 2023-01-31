@@ -606,6 +606,48 @@ export default function Layout({ title }) {
               </tbody>
             </table>
           </Item>
+          <Item title="Licores">
+            <table>
+              <tbody>
+                <tr className="my-1">
+                  <td>
+                    <strong>PERONI</strong>
+                  </td>
+                  <td className="pl-10 md:pl-20">$12.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>CORONA</strong>
+                  </td>
+                  <td className="pl-10 md:pl-20">$12.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>CLUB COLOMBIA</strong> (DORADA, NEGRA, ROJA)
+                  </td>
+                  <td className="pl-10 md:pl-20">$9.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>AGUILA LIGHT</strong>
+                  </td>
+                  <td className="pl-10 md:pl-20">$9.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>CORONITA</strong>
+                  </td>
+                  <td className="pl-10 md:pl-20">$6.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>POKER EN LATA</strong>
+                  </td>
+                  <td className="pl-10 md:pl-20">$8.000</td>
+                </tr>
+              </tbody>
+            </table>
+          </Item>
         </Section>
         <Section title="Vinos" color={'bg-gray-100'}>
           <Item title="Tintos">
