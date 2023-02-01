@@ -679,7 +679,7 @@ export default function Layout({ title }) {
                     <br />
                     Gin, tónica, rodaja de limón.
                   </td>
-                  <td className="pl-10 md:pl-20">$9.000</td>
+                  <td className="pl-10 md:pl-20">$30.000</td>
                 </tr>
               </tbody>
             </table>
