@@ -398,7 +398,7 @@ export default function Layout({ title }) {
                 Adicionales:
                 <br />– Porción de queso parmesano $8.000
               </td>
-              <td className="pl-10 md:pl-20">$42.900</td>
+              <td className="pl-10 md:pl-20">$49.000</td>
             </tr>
             <tr className="my-1">
               <td>
@@ -407,7 +407,7 @@ export default function Layout({ title }) {
                 champiñones portobellos, tocineta ahumada, vino blanco,
                 parmesano.
               </td>
-              <td className="pl-10 md:pl-20">$34.000</td>
+              <td className="pl-10 md:pl-20">$45.000</td>
             </tr>
           </Item>
           <Item title="Carnes - Secondi Piatti">
@@ -421,7 +421,7 @@ export default function Layout({ title }) {
                     servido con papas al romero e ensalada mista. El corte más
                     fino de la res.
                   </td>
-                  <td className="pl-10 md:pl-20">$44.900</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -429,7 +429,7 @@ export default function Layout({ title }) {
                     <br />
                     carne de res, tocineta ahumada, ajo, vino tinto.
                   </td>
-                  <td className="pl-10 md:pl-20">$43.100</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -437,7 +437,7 @@ export default function Layout({ title }) {
                     <br />
                     sutil corte tierno de baby beef, ajo, trigo y limón.
                   </td>
-                  <td className="pl-10 md:pl-20">$42.100</td>
+                  <td className="pl-10 md:pl-20">$48.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -446,7 +446,7 @@ export default function Layout({ title }) {
                     250gr. de res y cerdo a la plancha y gratinado con queso
                     provola ahumado.
                   </td>
-                  <td className="pl-10 md:pl-20">$36.800</td>
+                  <td className="pl-10 md:pl-20">$45.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -455,7 +455,7 @@ export default function Layout({ title }) {
                     rollos de pollo, parmesano, jamón, perejil, pimienta negra,
                     queso ahumado.
                   </td>
-                  <td className="pl-10 md:pl-20">$36.200</td>
+                  <td className="pl-10 md:pl-20">$42.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -463,7 +463,7 @@ export default function Layout({ title }) {
                     <br />
                     ruedas de lomo de cerdo, ajo, cebolla, salsa al vino.
                   </td>
-                  <td className="pl-10 md:pl-20">$32.800</td>
+                  <td className="pl-10 md:pl-20">$39.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -471,7 +471,7 @@ export default function Layout({ title }) {
                     <br />
                     pechuga de pollo en salsa chardonnay.
                   </td>
-                  <td className="pl-10 md:pl-20">$29.400</td>
+                  <td className="pl-10 md:pl-20">$35.000</td>
                 </tr>
               </tbody>
             </table>
@@ -485,7 +485,7 @@ export default function Layout({ title }) {
                     <br />
                     Pargo rojo a la plancha en salsa de camarones y mixtura.
                   </td>
-                  <td className="pl-10 md:pl-20">$42.500</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -493,7 +493,7 @@ export default function Layout({ title }) {
                     <br />
                     salmón, ajo, brandy y aceite de oliva.
                   </td>
-                  <td className="pl-10 md:pl-20">$42.900</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -501,7 +501,7 @@ export default function Layout({ title }) {
                     <br />
                     salmón, vino blanco y aceite de oliva.
                   </td>
-                  <td className="pl-10 md:pl-20">$40.900</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
               </tbody>
             </table>
@@ -517,7 +517,7 @@ export default function Layout({ title }) {
                       COCA-COLA * COCA-COLA ZERO * GINGER * POSTOBÓN
                     </strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$6.500</td>
+                  <td className="pl-10 md:pl-20">$7.500</td>
                 </tr>
               </tbody>
             </table>
@@ -529,25 +529,23 @@ export default function Layout({ title }) {
                   <td>
                     <strong>COCO</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$8.900</td>
+                  <td className="pl-10 md:pl-20">$10.600</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>MANGO BICHE</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$8.900</td>
+                  <td className="pl-10 md:pl-20">$10.600</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>NATURAL</strong>
                   </td>
-                  <td className="pl-10 md:pl-20"> $6.800 </td>
+                  <td className="pl-10 md:pl-20"> $8.100 </td>
                 </tr>
                 <tr className="my-1">
                   <td>
-                    <strong>
-                      JARRA <strong>NATURAL</strong>
-                    </strong>
+                    <strong>JARRA NATURAL</strong>
                   </td>
                   <td className="pl-10 md:pl-20"> $15.000 </td>
                 </tr>
@@ -595,13 +593,13 @@ export default function Layout({ title }) {
                   <td>
                     <strong>AGUARDIENTE ANTIOQUEÑO BOTELLA</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$80.000</td>
+                  <td className="pl-10 md:pl-20">$89.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>WISKY 12 AÑOS</strong> (CHIVAS, BUCCANAS, OLD PAR)
                   </td>
-                  <td className="pl-10 md:pl-20">$250.000</td>
+                  <td className="pl-10 md:pl-20">$270.000</td>
                 </tr>
               </tbody>
             </table>
@@ -657,13 +655,13 @@ export default function Layout({ title }) {
                   <td>
                     <strong>ARIONE MERLOT</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$90.000</td>
+                  <td className="pl-10 md:pl-20">$98.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>ARIONE ROSSO </strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$75.000</td>
+                  <td className="pl-10 md:pl-20">$90.000</td>
                 </tr>
               </tbody>
             </table>
@@ -675,13 +673,13 @@ export default function Layout({ title }) {
                   <td>
                     <strong>Arione Piemonte Chardonnay Doc</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$95.000</td>
+                  <td className="pl-10 md:pl-20">$105.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>ARIONE BLANCO</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$55.000</td>
+                  <td className="pl-10 md:pl-20">$90.000</td>
                 </tr>
               </tbody>
             </table>
@@ -693,13 +691,13 @@ export default function Layout({ title }) {
                   <td>
                     <strong>ARIONE PIEMONTE E BARBERA D´ASTI DOC</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$105.000</td>
+                  <td className="pl-10 md:pl-20">$125.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>ARIONE NERO D’AVOLA</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$95.000</td>
+                  <td className="pl-10 md:pl-20">$105.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -711,25 +709,25 @@ export default function Layout({ title }) {
                   <td>
                     <strong>TORREVILLA PINOT NERO DOP</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$90.000</td>
+                  <td className="pl-10 md:pl-20">$98.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>TORREVILLA BARBERA DOP</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$90.000</td>
+                  <td className="pl-10 md:pl-20">$98.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>ARIONE SHIRAZ</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$90.000</td>
+                  <td className="pl-10 md:pl-20">$98.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>ARIONE ROSSATO</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$75.000</td>
+                  <td className="pl-10 md:pl-20">$90.000</td>
                 </tr>
               </tbody>
             </table>
@@ -741,19 +739,19 @@ export default function Layout({ title }) {
                   <td>
                     <strong>PROSECCO MIONETTO BRUT DOC</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$130.000</td>
+                  <td className="pl-10 md:pl-20">$150.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>LAMBRUSCO ROSSO IGT</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$85.000</td>
+                  <td className="pl-10 md:pl-20">$100.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>LAMBRUSCO BLANCO IGT</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$85.000</td>
+                  <td className="pl-10 md:pl-20">$100.000</td>
                 </tr>
               </tbody>
             </table>
@@ -765,19 +763,19 @@ export default function Layout({ title }) {
                   <td>
                     <strong>JARRA DE SANGRÍA BLANCA, ROSADA O TINTA</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$90.000</td>
+                  <td className="pl-10 md:pl-20">$98.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>COPA DE SANGRÍA</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$20.000</td>
+                  <td className="pl-10 md:pl-20">$30.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>COPA DE VINO ARIONE BLANCO, ROSSATO Y ROSSO</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$20.000</td>
+                  <td className="pl-10 md:pl-20">$25.000</td>
                 </tr>
               </tbody>
             </table>
@@ -791,38 +789,38 @@ export default function Layout({ title }) {
                   <td>
                     <strong>ESPRESSO</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$4.500</td>
+                  <td className="pl-10 md:pl-20">$5.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>AMERICANO </strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$4.500</td>
+                  <td className="pl-10 md:pl-20">$5.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>MACCHIATO</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$5.500</td>
+                  <td className="pl-10 md:pl-20">$6.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>LATTE</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$6.000</td>
+                  <td className="pl-10 md:pl-20">$7.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>CAPPUCCINO</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$6.500</td>
+                  <td className="pl-10 md:pl-20">$7.500</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>AROMÁTICA</strong> (FRUTOS ROJOS, TROPICAL, JENJIBRE
                     Y PIÑA)
                   </td>
-                  <td className="pl-10 md:pl-20">$6.800</td>
+                  <td className="pl-10 md:pl-20">$8.000</td>
                 </tr>
               </tbody>
             </table>
@@ -834,19 +832,19 @@ export default function Layout({ title }) {
                   <td>
                     <strong>GENOVESA</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$8.500</td>
+                  <td className="pl-10 md:pl-20">$9.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>MARACUYÁ</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$8.500</td>
+                  <td className="pl-10 md:pl-20">$9.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>CHOCOLATE</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$8.500</td>
+                  <td className="pl-10 md:pl-20">$9.000</td>
                 </tr>
               </tbody>
             </table>
