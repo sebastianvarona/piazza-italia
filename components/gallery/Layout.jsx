@@ -547,7 +547,7 @@ export default function Layout({ title }) {
                   <td>
                     <strong>JARRA NATURAL</strong>
                   </td>
-                  <td className="pl-10 md:pl-20"> $15.000 </td>
+                  <td className="pl-10 md:pl-20"> $18.000 </td>
                 </tr>
               </tbody>
             </table>
@@ -562,7 +562,7 @@ export default function Layout({ title }) {
                     </strong>
                   </td>
                   <td className="pl-10 md:pl-20">
-                    Agua: $8.000 | Leche: $9.000
+                    Agua: $9.600 | Leche: $10.500
                   </td>
                 </tr>
               </tbody>
@@ -575,13 +575,13 @@ export default function Layout({ title }) {
                   <td>
                     <strong>AGUA CON GAS Y SIN GAS</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$6.800</td>
+                  <td className="pl-10 md:pl-20">$8.100</td>
                 </tr>
                 <tr className="my-1">
                   <td>
                     <strong>BRETAÑA</strong>
                   </td>
-                  <td className="pl-10 md:pl-20">$6.800</td>
+                  <td className="pl-10 md:pl-20">$8.100</td>
                 </tr>
               </tbody>
             </table>
