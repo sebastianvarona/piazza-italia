@@ -646,6 +646,44 @@ export default function Layout({ title }) {
               </tbody>
             </table>
           </Item>
+          <Item title="Cócteles">
+            <table>
+              <tbody>
+                <tr className="my-1">
+                  <td>
+                    <strong>NEGRONI</strong>
+                    <br />
+                    Gin, campari, vermut rosso, rodaja de naranja.
+                  </td>
+                  <td className="pl-10 md:pl-20">$29.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>IL PADRINO</strong>
+                    <br />
+                    Whisky escocés, amaretto, gotas de angostura.
+                  </td>
+                  <td className="pl-10 md:pl-20">$29.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>MARGARITA</strong>
+                    <br />
+                    Tequila, triple se, zumo de limón, jarabe.
+                  </td>
+                  <td className="pl-10 md:pl-20">$29.000</td>
+                </tr>
+                <tr className="my-1">
+                  <td>
+                    <strong>GIN TONIC</strong>
+                    <br />
+                    Gin, tónica, rodaja de limón.
+                  </td>
+                  <td className="pl-10 md:pl-20">$9.000</td>
+                </tr>
+              </tbody>
+            </table>
+          </Item>
         </Section>
         <Section title="Vinos" color={'bg-gray-100'}>
           <Item title="Tintos">
