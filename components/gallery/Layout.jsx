@@ -29,7 +29,7 @@ export default function Layout({ title }) {
                     serrano, rueda de tomate, salsa pesto, albahaca, crostini de
                     pan
                   </td>
-                  <td className="pl-10 md:pl-20">$39.600</td>
+                  <td className="pl-10 md:pl-20">$44.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -38,7 +38,7 @@ export default function Layout({ title }) {
                     Burata de búfala, jamón serrano, rueda de tomate, salsa
                     pesto, albahaca, crostini de pan
                   </td>
-                  <td className="pl-10 md:pl-20">$32.900</td>
+                  <td className="pl-10 md:pl-20">$38.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -46,7 +46,7 @@ export default function Layout({ title }) {
                     <br />
                     pan tostado en horno, salmón ahumado, limón, pimienta negra.
                   </td>
-                  <td className="pl-10 md:pl-20">$21.900</td>
+                  <td className="pl-10 md:pl-20">$25.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -54,7 +54,7 @@ export default function Layout({ title }) {
                     <br />
                     champiñones, cebolla, ajo, queso ahumado.
                   </td>
-                  <td className="pl-10 md:pl-20">$27.200</td>
+                  <td className="pl-10 md:pl-20">$30.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -63,7 +63,7 @@ export default function Layout({ title }) {
                     albóndigas de res, huevo, parmesano, leche, perejil, en
                     salsa de tomate.
                   </td>
-                  <td className="pl-10 md:pl-20">$21.900</td>
+                  <td className="pl-10 md:pl-20">$25.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -72,7 +72,7 @@ export default function Layout({ title }) {
                     pan tostado en horno, tomate, aceite de oliva, orégano,
                     albahaca .
                   </td>
-                  <td className="pl-10 md:pl-20">$9.500</td>
+                  <td className="pl-10 md:pl-20">$10.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -81,7 +81,7 @@ export default function Layout({ title }) {
                     canasta de caliente pan campesino al horno en mantequilla de
                     ajo.
                   </td>
-                  <td className="pl-10 md:pl-20">$9.000</td>
+                  <td className="pl-10 md:pl-20">$10.500</td>
                 </tr>
               </tbody>
             </table>
@@ -98,7 +98,7 @@ export default function Layout({ title }) {
                     camarones, almejas, palmitos,tomate, lechugas, cebolla,
                     vinagreta de la casa, picatostes.
                   </td>
-                  <td className="pl-10 md:pl-20">$40.800</td>
+                  <td className="pl-10 md:pl-20">$45.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -108,7 +108,7 @@ export default function Layout({ title }) {
                     oliva, mozzarella de búfala, aceite balsámico, salsa Dijon,
                     limón, croutons.
                   </td>
-                  <td className="pl-10 md:pl-20">$36.200</td>
+                  <td className="pl-10 md:pl-20">$42.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -117,7 +117,7 @@ export default function Layout({ title }) {
                     tomate, atún, aceitunas negras, lechuga, cebolla morada
                     caramelada, pepino, nuez, alcaparras.
                   </td>
-                  <td className="pl-10 md:pl-20">$35.200</td>
+                  <td className="pl-10 md:pl-20">$42.000</td>
                 </tr>
               </tbody>
             </table>
@@ -132,7 +132,7 @@ export default function Layout({ title }) {
                     chorizo italiano, papada de cerdo, tocineta ahumada,
                     pancetta, queso mazzarella y tomate.
                   </td>
-                  <td className="pl-10 md:pl-20">$43.000</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -141,7 +141,7 @@ export default function Layout({ title }) {
                     Una base de queso fundido y tomate que se aliñan con jamón,
                     tocineta, piña y cereza.
                   </td>
-                  <td className="pl-10 md:pl-20">$40.900</td>
+                  <td className="pl-10 md:pl-20">$47.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -150,7 +150,7 @@ export default function Layout({ title }) {
                     camarones, almejas, palmitos de cangrejos, tomate, cebolla,
                     pimienta.
                   </td>
-                  <td className="pl-10 md:pl-20">$39.900</td>
+                  <td className="pl-10 md:pl-20">$47.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -158,7 +158,7 @@ export default function Layout({ title }) {
                     <br />
                     mozarela, queso azul, provola, pecorino.
                   </td>
-                  <td className="pl-10 md:pl-20">$39.600</td>
+                  <td className="pl-10 md:pl-20">$47.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -166,7 +166,7 @@ export default function Layout({ title }) {
                     <br />
                     tocineta, tomate, champiñones, mozzarella, chorizo y ricota.
                   </td>
-                  <td className="pl-10 md:pl-20">$39.600</td>
+                  <td className="pl-10 md:pl-20">$47.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -174,7 +174,7 @@ export default function Layout({ title }) {
                     <br />
                     jamón artesanal, queso mozzarella, rúgula.
                   </td>
-                  <td className="pl-10 md:pl-20">$37.900</td>
+                  <td className="pl-10 md:pl-20">$45.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -182,7 +182,7 @@ export default function Layout({ title }) {
                     <br />
                     pepperoni, queso mozzarella, pimienta.
                   </td>
-                  <td className="pl-10 md:pl-20">$36.600</td>
+                  <td className="pl-10 md:pl-20">$43.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -190,7 +190,7 @@ export default function Layout({ title }) {
                     <br />
                     champiñones portobello, queso ahumado, rúgula y parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$36.600</td>
+                  <td className="pl-10 md:pl-20">$43.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -198,7 +198,7 @@ export default function Layout({ title }) {
                     <br />
                     tocineta ahumada, mozarela, tomate, parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$34.900</td>
+                  <td className="pl-10 md:pl-20">$42.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -206,7 +206,7 @@ export default function Layout({ title }) {
                     <br />
                     pollo, champiñones, queso fundido
                   </td>
-                  <td className="pl-10 md:pl-20">$32.800</td>
+                  <td className="pl-10 md:pl-20">$40.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -214,7 +214,7 @@ export default function Layout({ title }) {
                     <br />
                     tomate, queso mozzarella, anchoas, albahaca.
                   </td>
-                  <td className="pl-10 md:pl-20">$32.800</td>
+                  <td className="pl-10 md:pl-20">$39.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -222,7 +222,7 @@ export default function Layout({ title }) {
                     <br />
                     tomate cherry, queso mozzarella, pesto.
                   </td>
-                  <td className="pl-10 md:pl-20">$31.700</td>
+                  <td className="pl-10 md:pl-20">$38.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -230,7 +230,7 @@ export default function Layout({ title }) {
                     <br />
                     tomate, queso mozzarella, albahaca.
                   </td>
-                  <td className="pl-10 md:pl-20">$28.300</td>
+                  <td className="pl-10 md:pl-20">$34.000</td>
                 </tr>
               </tbody>
             </table>
@@ -244,7 +244,7 @@ export default function Layout({ title }) {
                     <br />
                     pasta, camarones, salmón, brandy, pimienta.
                   </td>
-                  <td className="pl-10 md:pl-20">$44.500</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -253,7 +253,7 @@ export default function Layout({ title }) {
                     linguini, mejillones, gambas, almejas, calamar, vino blanco,
                     cebolla, ajo, tomate triturado, aceite de oliva y paprica.
                   </td>
-                  <td className="pl-10 md:pl-20">$42.800</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -262,7 +262,7 @@ export default function Layout({ title }) {
                     Pasta penne, ajo, crema de leche, salsa de tomate, camarones
                     y vodka.
                   </td>
-                  <td className="pl-10 md:pl-20">$42.500</td>
+                  <td className="pl-10 md:pl-20">$49.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -271,7 +271,7 @@ export default function Layout({ title }) {
                     pasta, portobello, salciccia italiana, papada, tocineta,
                     arveja, tomate y parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$39.600</td>
+                  <td className="pl-10 md:pl-20">$47.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -281,7 +281,7 @@ export default function Layout({ title }) {
                     tomate cherry, aceite de oliva, vino blanco y queso
                     parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$39.600</td>
+                  <td className="pl-10 md:pl-20">$47.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -290,7 +290,7 @@ export default function Layout({ title }) {
                     pasta penne, mozzarella, queso azul, queso pecorino,
                     parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$38.600</td>
+                  <td className="pl-10 md:pl-20">$47.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -299,7 +299,7 @@ export default function Layout({ title }) {
                     pasta, tocineta ahumada, champiñones, ajo, cebolla, vino
                     blanco, queso, pimienta.
                   </td>
-                  <td className="pl-10 md:pl-20">$36.300</td>
+                  <td className="pl-10 md:pl-20">$45.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -308,7 +308,7 @@ export default function Layout({ title }) {
                     pasta fetuccini, mantequilla, crema de leche, queso
                     parmesano, pimienta blanca, nuez moscada.
                   </td>
-                  <td className="pl-10 md:pl-20">$33.900</td>
+                  <td className="pl-10 md:pl-20">$42.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -317,7 +317,7 @@ export default function Layout({ title }) {
                     spaghetti, aceite de oliva, ajo, alcaparras, anchovas,
                     aceitunas, tomate.
                   </td>
-                  <td className="pl-10 md:pl-20">$34.900</td>
+                  <td className="pl-10 md:pl-20">$42.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -327,7 +327,7 @@ export default function Layout({ title }) {
                     blanco.{' '}
                     <span className="text-red-400">(un poco picante)</span>
                   </td>
-                  <td className="pl-10 md:pl-20">$34.000</td>
+                  <td className="pl-10 md:pl-20">$40.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -335,7 +335,7 @@ export default function Layout({ title }) {
                     <br />
                     pasta, tocineta ahumada, ajo, huevo, crema de leche.
                   </td>
-                  <td className="pl-10 md:pl-20">$33.900</td>
+                  <td className="pl-10 md:pl-20">$40.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -343,7 +343,7 @@ export default function Layout({ title }) {
                     <br />
                     pasta spaghetti, mantequilla, queso parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$25.900</td>
+                  <td className="pl-10 md:pl-20">$30.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -352,7 +352,7 @@ export default function Layout({ title }) {
                     pasta tagliatelle, carne molida de res, tomate, ajo,
                     cebolla, laurel. parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$32.800</td>
+                  <td className="pl-10 md:pl-20">$37.000</td>
                 </tr>
                 <tr className="my-1">
                   <td>
@@ -361,7 +361,7 @@ export default function Layout({ title }) {
                     pasta ravioli rellenos de carne, champiñones portobello,
                     queso crema, parmesano.
                   </td>
-                  <td className="pl-10 md:pl-20">$36.200</td>
+                  <td className="pl-10 md:pl-20">$42.000</td>
                 </tr>
               </tbody>
             </table>
@@ -374,7 +374,7 @@ export default function Layout({ title }) {
                 pasta para lasaña, carne molida, tomate, cebolla, ajo, albahaca,
                 tomate, mozzarella, parmesano.
               </td>
-              <td className="pl-10 md:pl-20">$32.800</td>
+              <td className="pl-10 md:pl-20">$35.000</td>
             </tr>
             <tr className="my-1">
               <td>
@@ -383,7 +383,7 @@ export default function Layout({ title }) {
                 pasta para lasaña, pollo, tomate, cebolla, ajo, albahaca,
                 tomate, mozzarella, parmesano.
               </td>
-              <td className="pl-10 md:pl-20">$31.800</td>
+              <td className="pl-10 md:pl-20">$34.000</td>
             </tr>
           </Item>
           <Item title="Risotos">
